@@ -56,6 +56,5 @@ gallerySimpleLightbox.refresh();
     })
 }
 
-searchBtn.addEventListener("click", clearGallery);
 
 
