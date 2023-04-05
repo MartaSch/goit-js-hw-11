@@ -95,7 +95,7 @@
 60C:\goit_nauka_marta\goit-js-hw-11\node_modules\htmlnano\docs133246448160638499 1
 78C:\goit_nauka_marta\goit-js-hw-11\node_modules\lmdb\dependencies\lz4\lib\lz4.c133246448153959012 0
 96C:\goit_nauka_marta\goit-js-hw-11\node_modules\@parcel\source-map\parcel_sourcemap_node\build.js133246448140966635 0
-38C:\goit_nauka_marta\goit-js-hw-11\dist133251871738164373 1
+38C:\goit_nauka_marta\goit-js-hw-11\dist133251881411240755 1
 53C:\goit_nauka_marta\goit-js-hw-11\src\sass\index.scss133251522008480010 0
 83C:\goit_nauka_marta\goit-js-hw-11\node_modules\htmlparser2\lib\FeedHandler.d.ts.map133246448141066676 0
 78C:\goit_nauka_marta\goit-js-hw-11\node_modules\htmlnano\docs\docs\020-usage.md133246448158244699 0
@@ -175,7 +175,7 @@
 77C:\goit_nauka_marta\goit-js-hw-11\node_modules\source-map-support\register.js133246448133557148 0
 42C:\goit_nauka_marta\goit-js-hw-11\src\sass133251521579074494 1
 77C:\goit_nauka_marta\goit-js-hw-11\node_modules\yaml\dist\Document-9b4560a1.js133246448136151913 0
-53C:\goit_nauka_marta\goit-js-hw-11\src\clearGallery.js133251871685104359 0
+53C:\goit_nauka_marta\goit-js-hw-11\src\clearGallery.js133251881408902715 0
 69C:\goit_nauka_marta\goit-js-hw-11\node_modules\svgo\lib\svgo\jsAPI.js133246448153572091 0
 69C:\goit_nauka_marta\goit-js-hw-11\node_modules\dom-serializer\lib\esm133246448146643755 1
 89C:\goit_nauka_marta\goit-js-hw-11\node_modules\caniuse-lite\data\features\css3-cursors.js133246448169691820 0
@@ -201,7 +201,7 @@
 67C:\goit_nauka_marta\goit-js-hw-11\node_modules\electron-to-chromium133246448146267990 1
 88C:\goit_nauka_marta\goit-js-hw-11\node_modules\caniuse-lite\data\features\audiotracks.js133246448156201599 0
 48C:\goit_nauka_marta\goit-js-hw-11\src\index.html133251638763430528 0
-46C:\goit_nauka_marta\goit-js-hw-11\src\index.js133251871735295104 0
+46C:\goit_nauka_marta\goit-js-hw-11\src\index.js133251878892122233 0
 68C:\goit_nauka_marta\goit-js-hw-11\node_modules\posthtml\package.json133246448134527130 0
 91C:\goit_nauka_marta\goit-js-hw-11\node_modules\@swc\helpers\src\_interop_require_default.js133246448165271714 0
 70C:\goit_nauka_marta\goit-js-hw-11\node_modules\css-select\lib\types.js133246448145857997 0
@@ -4999,8 +4999,8 @@
 58C:\goit_nauka_marta\goit-js-hw-11\node_modules\.bin\terser133246448186400740 0
 62C:\goit_nauka_marta\goit-js-hw-11\node_modules\.bin\terser.cmd133246448186400740 0
 62C:\goit_nauka_marta\goit-js-hw-11\node_modules\.bin\terser.ps1133246448186390735 0
-56C:\goit_nauka_marta\goit-js-hw-11\dist\index.975ef6c8.js133251871738067198 0
-60C:\goit_nauka_marta\goit-js-hw-11\dist\index.975ef6c8.js.map133251871738134424 0
+56C:\goit_nauka_marta\goit-js-hw-11\dist\index.975ef6c8.js133251881411058650 0
+60C:\goit_nauka_marta\goit-js-hw-11\dist\index.975ef6c8.js.map133251881411210706 0
 61C:\goit_nauka_marta\goit-js-hw-11\dist\index.b07a87f3.css.map133251669382870353 0
 49C:\goit_nauka_marta\goit-js-hw-11\dist\index.html133251659248002762 0
 56C:\goit_nauka_marta\goit-js-hw-11\dist\zoom.bc1a4a2b.png133251659244222833 0
